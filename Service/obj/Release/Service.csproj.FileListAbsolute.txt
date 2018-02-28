@@ -1,0 +1,17 @@
+C:\Users\Hung\Desktop\Application\Application\Service\bin\Service.dll.config
+C:\Users\Hung\Desktop\Application\Application\Service\bin\Service.dll
+C:\Users\Hung\Desktop\Application\Application\Service\bin\Service.pdb
+C:\Users\Hung\Desktop\Application\Application\Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hung\Desktop\Application\Application\Service\bin\Newtonsoft.Json.dll
+C:\Users\Hung\Desktop\Application\Application\Service\bin\System.Net.Http.Formatting.dll
+C:\Users\Hung\Desktop\Application\Application\Service\bin\System.Web.Http.dll
+C:\Users\Hung\Desktop\Application\Application\Service\bin\System.Web.Http.WebHost.dll
+C:\Users\Hung\Desktop\Application\Application\Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hung\Desktop\Application\Application\Service\bin\Newtonsoft.Json.xml
+C:\Users\Hung\Desktop\Application\Application\Service\bin\System.Net.Http.Formatting.xml
+C:\Users\Hung\Desktop\Application\Application\Service\bin\System.Web.Http.xml
+C:\Users\Hung\Desktop\Application\Application\Service\bin\System.Web.Http.WebHost.xml
+C:\Users\Hung\Desktop\Application\Application\Service\obj\Release\Service.csprojResolveAssemblyReference.cache
+C:\Users\Hung\Desktop\Application\Application\Service\obj\Release\Service.csproj.CoreCompileInputs.cache
+C:\Users\Hung\Desktop\Application\Application\Service\obj\Release\Service.dll
+C:\Users\Hung\Desktop\Application\Application\Service\obj\Release\Service.pdb

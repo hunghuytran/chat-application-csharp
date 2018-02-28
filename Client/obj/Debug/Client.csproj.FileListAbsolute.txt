@@ -1,0 +1,14 @@
+C:\Users\Hung\Desktop\Application\Application\Client\bin\Debug\Client.exe.config
+C:\Users\Hung\Desktop\Application\Application\Client\bin\Debug\Client.exe
+C:\Users\Hung\Desktop\Application\Application\Client\bin\Debug\Client.pdb
+C:\Users\Hung\Desktop\Application\Application\Client\bin\Debug\Server.exe
+C:\Users\Hung\Desktop\Application\Application\Client\bin\Debug\Server.pdb
+C:\Users\Hung\Desktop\Application\Application\Client\bin\Debug\Server.exe.config
+C:\Users\Hung\Desktop\Application\Application\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Hung\Desktop\Application\Application\Client\obj\Debug\Client.ClientUI.resources
+C:\Users\Hung\Desktop\Application\Application\Client\obj\Debug\Client.Register.resources
+C:\Users\Hung\Desktop\Application\Application\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Hung\Desktop\Application\Application\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Hung\Desktop\Application\Application\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Hung\Desktop\Application\Application\Client\obj\Debug\Client.exe
+C:\Users\Hung\Desktop\Application\Application\Client\obj\Debug\Client.pdb
